@@ -21,7 +21,7 @@
             $totalProduct = count($_SESSION['addToCart']);
              echo '<form method="post" action="payment.php">';
             ?>
-            <h1> updated text</h1>
+            
            <div class="cart_clear">
            <a href='cart.php?is_clear_cart=true'>Clear cart </a>
            <a href='/eco/'> Back to eco.com </a>
